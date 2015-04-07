@@ -2,5 +2,6 @@
 进行编辑
 git config --global user.email
 git config --global user.name
+git add -A
 git commit -m "
 git push origin master
