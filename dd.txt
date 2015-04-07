@@ -1,1 +1,6 @@
-﻿大家好121！
+﻿git clone http
+进行编辑
+git config --global user.email
+git config --global user.name
+git commit -m "
+git push origin master
